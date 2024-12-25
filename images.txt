@@ -1,3 +1,4 @@
+axboy/leanote:20220822
 emqx/emqx:5.8.1
 squidfunk/mkdocs-material
 --platform=linux/amd64 timberio/vector:0.39.0-debian
