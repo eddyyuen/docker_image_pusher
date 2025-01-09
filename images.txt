@@ -1,3 +1,4 @@
+portainer/agent:2.25.1
 portainer/portainer-ce:2.21.5
 louislam/uptime-kuma:1.23.16
 axboy/leanote:20220822
