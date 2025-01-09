@@ -1,3 +1,4 @@
+portainer/portainer-ce:2.21.5
 louislam/uptime-kuma:1.23.16
 axboy/leanote:20220822
 emqx/emqx:5.8.1
