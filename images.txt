@@ -1,19 +1,4 @@
 gcr.io/cadvisor/cadvisor
-henrygd/beszel:0.9.1
-henrygd/beszel-agent:0.9.1
-portainer/portainer-ce:2.25.1-alpine
-portainer/agent:2.25.1
-portainer/portainer-ce:2.21.5
-louislam/uptime-kuma:1.23.16
-axboy/leanote:20220822
-emqx/emqx:5.8.1
-squidfunk/mkdocs-material
---platform=linux/amd64 timberio/vector:0.39.0-debian
-alpine:3.20.1
-emqx/emqx:5.7
-openresty/openresty:1.25.3.2-0-alpine-fat
-redis:7.4.0-alpine3.20
-postgres:16.3-alpine3.20
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
