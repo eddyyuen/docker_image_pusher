@@ -1,4 +1,4 @@
-gcr.io/cadvisor/cadvisor:0.52.1
+gcr.io/cadvisor/cadvisor
 henrygd/beszel:0.9.1
 henrygd/beszel-agent:0.9.1
 portainer/portainer-ce:2.25.1-alpine
