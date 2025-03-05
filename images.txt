@@ -1,3 +1,5 @@
+henrygd/beszel:0.9.1
+henrygd/beszel-agent:0.9.1
 portainer/portainer-ce:2.25.1-alpine
 portainer/agent:2.25.1
 portainer/portainer-ce:2.21.5
